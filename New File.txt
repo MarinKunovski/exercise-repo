@@ -1,1 +1,3 @@
 Created new file!
+
+Changes made in newBranch
