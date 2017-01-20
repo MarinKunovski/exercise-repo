@@ -7,3 +7,5 @@ New changes with gitBash
 creating a conflict with gitBash!
 
 creating a conflict
+
+Making changes again!
