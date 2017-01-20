@@ -1,2 +1,3 @@
 # exercise-repo
-A repo for excersise
+
+This repo is for excercise!
