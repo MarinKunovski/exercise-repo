@@ -9,3 +9,5 @@ creating a conflict with gitBash!
 creating a conflict
 
 merging branches
+
+Making changes again!
