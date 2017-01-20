@@ -3,3 +3,5 @@ Created new file!
 Edited in master branchCreated new file!
 
 Changes made in newBranch
+
+creating a conflict
